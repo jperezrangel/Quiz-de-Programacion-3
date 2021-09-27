@@ -1,12 +1,6 @@
 def main():
-    #escribe tu código abajo de esta línea
-    num = int(input())
-    sum = 0
-    while num != 0:
-        sum = sum + num
-        #print("Dame otro")
-        num = int(input())
-    print(sum)
+    # Elimina la palabra pass y teclea el código de solución.
+    pass
 
 
 if __name__=='__main__':
