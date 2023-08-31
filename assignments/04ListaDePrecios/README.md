@@ -32,11 +32,11 @@ Después de que se teclee la letra X se debe mostrar el total de los artículos 
 
 **Ejemplo de la ejecución del programa:**  
 ```
->>>B              
+>>>Teclea la clave B              
 250               
->>>A                 
+>>>Teclea la clave A                 
 120               
->>>X                 
+>>>Teclea la clave X                 
 370 
 ```
 
